@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Formulário</title>
+</head>
+
+<body>
+    <h1>Formulário de identificação</h1>
+    <form>
+        <div>
+            <label>Nome
+                <input type="text" name="nome" required>
+            </label>
+        </div>
+        <div>
+            <label>E-mail
+                <input type="email" name="email" required>
+            </label>
+        </div>
+        <div>
+            <label>Senha
+                <input type="password" name="senha" required>
+            </label>
+        </div>
+        <div>
+            <label>Idade
+                <input type="number" name="idade" required>
+            </label>
+        </div>
+        <div>
+            <label>
+                <input type="radio" name="ocupacao" value="estudante" required>
+                Sou estudante
+            </label>
+            <label>
+                <input type="radio" name="ocupacao" value="nao-estudante" required>
+                Ainda não sou estudante
+            </label>
+        </div>
+        <div>
+            <label>
+                <input type="checkbox" name="termos" required>
+                Aceito os termos de uso
+            </label>
+        </div>
+        <div>
+            <button>Enviar</button>
+        </div>
+    </form>
+</body>
+
+</html>
