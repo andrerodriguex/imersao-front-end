@@ -1,0 +1,35 @@
+body {
+    background-color: #ECECEC;
+}
+
+.conteudo-principal {
+    width: 50%;
+    height: 500px;
+    background-color: #FFFFFF;
+}
+
+.titulo-principal {
+    color: #FFC300;
+    font-size: 30px;
+}
+
+.paragrafo-principal {
+    color: #232931;
+    font-size: 16px;
+}
+
+.conteudo-secundario {
+    width: 25%;
+    height: 200px;
+    background: #CECECE;
+}
+
+.titulo-secundario {
+    color: #FF1818;
+    font-size: 20px;
+}
+
+.paragrafo-secundario {
+    color: #232931;
+    font-size: 13px;
+}
