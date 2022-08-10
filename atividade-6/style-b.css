@@ -1,0 +1,25 @@
+body {
+    background-image: linear-gradient(#ffffff, #eceaea, #dadada);
+    background-repeat: no-repeat;
+}
+
+.conteudo-um {
+    width: 500px;
+    height: 500px;
+    margin: 30px;
+    padding: 50px;
+    background-image: radial-gradient(#001ca2, #140057);
+}
+
+.conteudo-dois {
+    width: 500px;
+    height: 500px;
+    margin: 30px;
+    padding: 50px;
+    background-image: radial-gradient(#aa5712, #90144c);
+}
+
+.redes-sociais {
+    color: #ffffff;
+    font-size: 35px;
+}
