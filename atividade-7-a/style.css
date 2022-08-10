@@ -1,0 +1,113 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+}
+
+.header {
+    background-color: #2f117f;
+    padding: 20px;
+}
+
+.titulo {
+    color: #ffffff;
+    font-size: 30px;
+    font-weight: 900;
+    margin: 0;
+}
+
+.menu {
+    background-color: #6126ff;
+    margin: 20px 0 0 0;
+    width: 100px;
+}
+
+.itens-menu {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.item {
+    padding: 10px;
+}
+
+.item a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.secao {
+    padding: 20px;
+}
+
+.titulo2 {
+    font-size: 30px;
+    font-weight: 900;
+    margin-bottom: 20px;
+}
+
+.paragrafo {
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+.legenda {
+    font-size: 14px;
+}
+
+.input-texto {
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    padding: 10px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #6126ff;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.input-opcao {
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    padding: 10px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #6126ff;
+    border-radius: 5px;
+    color: #6126ff;
+}
+
+.enviar {
+    font-size: 15px;
+    font-weight: 700;
+    background-color: #6126ff;
+    color: #ffffff;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    border-width: 0;
+}
+
+.limpar {
+    font-size: 15px;
+    font-weight: 700;
+    background-color: #f1d703;
+    color: #6126ff;
+    margin: 20px 20px 20px 0;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    border-width: 0;
+}
+
+.footer {
+    background-color: #6126ff;
+    padding: 20px;
+}
+
+.footer-texto {
+    font-size: 12px;
+    color: #ffffff;
+}
